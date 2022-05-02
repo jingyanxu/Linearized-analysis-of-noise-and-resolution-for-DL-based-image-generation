@@ -8,7 +8,7 @@ Xu, J and Noo, F. "Linearized-analysis-of-noise-and-resolution-for-DL-based-imag
 The code examples and the trained models will be included soon.
 The supplementary information can be accessed from [supplement.pdf](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/supplement.pdf)
 
-An example of computing forward gradient using double backward autodiff in PyTorch can be found here [example.py](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/example.py)
+An example of computing forward gradient using double backward autodiff in PyTorch can be found in [example.py](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/example.py)
 ## Model Overview:
 
 An in-depth paragraph about your project and overview of use.
