@@ -3,7 +3,7 @@
 
 An online repository for the paper:
 
-Xu, J and Noo, F. "Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation." submitted. 
+Xu, J and Noo, F. "Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation." accepted. Here is an [unedited](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/Final_version.pdf) version. 
 
 The code examples and the trained models will be included soon.
 The supplementary information can be accessed from [supplement.pdf](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/supplement.pdf)
