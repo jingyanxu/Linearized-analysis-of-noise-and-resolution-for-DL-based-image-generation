@@ -10,7 +10,7 @@ The supplementary information can be accessed from [supplement.pdf](https://gith
 
 An example of computing forward gradient using double backward autodiff in PyTorch can be found in [example.py](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/example.py)
 
-**If you are looking for the source code of the paper, I apologize for the delay. It has something to do with [this.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) I am working on the replacement code. But it will take me sometime. Please check back here late November.**
+**If you are looking for the source code of the paper, I apologize for the delay. It has something to do with [this.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) I am working on the replacement code. But it will take me some time. Please check back here late November.**
 ## Model Overview:
 
 An in-depth paragraph about your project and overview of use.
