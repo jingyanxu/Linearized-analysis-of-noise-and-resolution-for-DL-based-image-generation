@@ -18,7 +18,7 @@ the following is a picture the result of the trained UNET, UNET input, UNET outp
 and the result of gradient calculation
 ![gradient of trained UNET](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/gradient.png?raw=true)
 
-Unfortunately, the UNET is not the same as the one used in the paper due to an unfortunate [incident.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) 
+The UNET is not the same as the one used in the paper due to an unfortunate [incident.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) 
 
 **If you are looking for the source code of the paper, I apologize for the delay. It has something to do with [this.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) I am working on the replacement code. But it will take me some time. Please check back here late November.**
 ## Model Overview:
