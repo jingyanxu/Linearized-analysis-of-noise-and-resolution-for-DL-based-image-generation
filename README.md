@@ -10,13 +10,15 @@ The supplementary information can be accessed from [supplement.pdf](https://gith
 
 An example of computing forward gradient using double backward autodiff in PyTorch can be found in [example.py](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/example.py)
 
-** march 2023 -- I added the forward and backward gradient calculation in "postprocess_unet.py" **
-The training/testing data are from LDCT on TCIA, using the 50 sets of siemens data, (quarter dose as the U-NET input, and full-dose as the label).  The first 45 patients were used for training, and the last 5 were used for testing.
+**march 2023 -- I added the forward and backward gradient calculation in "postprocess_unet.py" 
+The training/testing data are from LDCT on TCIA, using the 50 sets of siemens data, (quarter dose as the U-NET input, and full-dose as the label).  The first 45 patients were used for training, and the last 5 were used for testing.**
 
 the following is a picture the result of the trained UNET, UNET input, UNET output, and label 
-![input/output of trained UNET](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/output.png)
+![input/output of trained UNET](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/output.png?raw=true)
 and the result of gradient calculation
-![gradient of trained UNET](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/gradient.png)
+![gradient of trained UNET](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/gradient.png?raw=true)
+
+Unfortunately, the UNET is not the same as the one used in the paper due to an unfortunate [incident.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) 
 
 **If you are looking for the source code of the paper, I apologize for the delay. It has something to do with [this.](https://github.com/jingyanxu/Linearized-analysis-of-noise-and-resolution-for-DL-based-image-generation/blob/main/PXL_20220914_172013030.mp4) I am working on the replacement code. But it will take me some time. Please check back here late November.**
 ## Model Overview:
